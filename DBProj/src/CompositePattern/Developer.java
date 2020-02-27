@@ -7,6 +7,7 @@ public class Developer implements Employee {
         this.name = name;
         this.id = id;
     }
+    @Override
     public void EmployeeDetail() {
         System.out.println("Name: " + name + " id: "+id);
     }

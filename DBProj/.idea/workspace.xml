@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01918c53-efab-4466-8d94-a7c62f751c1b" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="01918c53-efab-4466-8d94-a7c62f751c1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ContextConfigParams/ContextConfigParams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CookieLogout/CookieLogout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetCookieFromSession/GetCookieFromSession.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hidden_From_Field/Hidden_From_Field.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Database/Java Database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEE/JavaEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEEDemo/JavaEEDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/ServletDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletForwarding/ServletForwarding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SessionManages/SessionManages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URL_Rewriting/URL_Rewriting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XMLtoDB/XMLtoDB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_javaee/hello_javaee.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DBProj/Adapter/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DBProj/Adapter/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DBProj/CompositePattern/Developer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DBProj/CompositePattern/Developer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DBProj/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DBProj/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DBProj/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DBProj/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DBProj/testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DBProj/testing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adapter/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompositePattern/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompositePattern/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryDesignPattern/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/Audi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,31 +41,52 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TumfQNmOv4sGEwQcW4cO0qmCsy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.testing">
+  <component name="RunManager" selected="Application.DBTask">
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompositePattern.Company" />
+      <module name="DBProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CompositePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBTask" />
+      <module name="DBProj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Decorator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecoratorPattern.Decorator" />
       <module name="DBProj" />
@@ -53,19 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrepState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrepState" />
-      <module name="DBProj" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProxyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.ProxyPattern" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuilderPattern.MainClass" />
       <module name="DBProj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProxyPattern.*" />
+          <option name="PATTERN" value="BuilderPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,29 +113,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter.test" />
       <module name="DBProj" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing" />
-      <module name="DBProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testing" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.PrepState" />
-        <item itemvalue="Application.ProxyPattern" />
+        <item itemvalue="Application.DBTask" />
         <item itemvalue="Application.Decorator" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Company" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -107,7 +158,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574318457743</updated>
+      <workItem from="1582168963294" duration="406000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1582169369657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582169369657" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1582169369657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582169369657" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1582169369656">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582169369656" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1582169369657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582169369657" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1582169126144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582169126144" />
   </component>
 </project>

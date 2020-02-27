@@ -31,10 +31,10 @@ class earphone_connector implements earphone{
 }
 public class test {
     public static void main(String[] args) {
-        android S10 = new android();
+        earphone S10 = new android();
         S10.listen();
 
-        iphone iphoneX = new iphone();
+        airpod iphoneX = new iphone();
         iphoneX.listen();
 
         earphone iphone11 = new earphone_connector(new iphone());

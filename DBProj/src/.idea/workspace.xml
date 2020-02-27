@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbea06cd-f148-421b-a4dc-29c7eedc0767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ContextConfigParams/ContextConfigParams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CookieLogout/CookieLogout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GetCookieFromSession/GetCookieFromSession.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hidden_From_Field/Hidden_From_Field.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Database/Java Database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEE/JavaEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEEDemo/JavaEEDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ServletDemo/ServletDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ServletForwarding/ServletForwarding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SessionManages/SessionManages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URL_Rewriting/URL_Rewriting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XMLtoDB/XMLtoDB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello_javaee/hello_javaee.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DBProj/Adapter/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/DBProj/Adapter/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DBProj/CompositePattern/Developer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/DBProj/CompositePattern/Developer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DBProj/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DBProj/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DBProj/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DBProj/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DBProj/testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/DBProj/testing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositePattern/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CompositePattern/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryDesignPattern/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDesignPattern/Audi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Y3Qk4DTx2mB0FlBzMjfjnKgymi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbea06cd-f148-421b-a4dc-29c7eedc0767" name="Default Changelist" comment="" />
+      <created>1582168937549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582168937549</updated>
+      <workItem from="1582168938882" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1582168958584">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1582168958584" />
+  </component>
+</project>
